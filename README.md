@@ -21,5 +21,5 @@ This is a simple React To-Do List application that allows users to add, edit, an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/react-todo-list.git
+   git clone https://github.com/FardeenCraft/react-todo-list.git
    cd react-todo-list
